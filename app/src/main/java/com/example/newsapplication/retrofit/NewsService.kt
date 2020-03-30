@@ -1,5 +1,6 @@
 package com.example.newsapplication.retrofit
 
+import com.example.newsapplication.data.NewsResponseData
 import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
