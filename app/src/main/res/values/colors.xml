@@ -2,6 +2,7 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
+    <color name="indeterminateTint">#4CAF50</color>
     <color name="textStartGradient">#3F51B5</color>
     <color name="textEndGradient">#FFFFFF</color>
     <color name="whiteTextColor">#FFFFFF</color>
